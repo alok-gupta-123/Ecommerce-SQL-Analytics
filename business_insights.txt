@@ -1,0 +1,23 @@
+E-COMMERCE SALES ANALYTICS
+BUSINESS INSIGHTS
+
+1. Total Revenue
+Total revenue from completed orders was ₹_____.
+
+2. Top Category
+________ generated the highest revenue.
+
+3. Top Product
+________ was the highest-selling product.
+
+4. Top Customer
+________ was the highest-spending customer.
+
+5. Cancellation Rate
+The order cancellation rate was ____%.
+
+6. Average Order Value
+The average order value was ₹_____.
+
+7. Repeat Customers
+_____ customers placed more than one completed order.
